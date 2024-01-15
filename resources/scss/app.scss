@@ -1,5 +1,16 @@
 @import "~bootstrap/scss/bootstrap";
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
-    background-color: lightgreen;
+    background-color: rgb(54, 54, 54);
+    color: white;
+}
+
+img {
+    max-width: 100%;
 }
